@@ -1,0 +1,17 @@
+/Users/vahid/Projects/C#_Projects/BankStateAnalize/BankStateAnalize/bin/Debug/net8.0/BankStateAnalize
+/Users/vahid/Projects/C#_Projects/BankStateAnalize/BankStateAnalize/bin/Debug/net8.0/BankStateAnalize.deps.json
+/Users/vahid/Projects/C#_Projects/BankStateAnalize/BankStateAnalize/bin/Debug/net8.0/BankStateAnalize.runtimeconfig.json
+/Users/vahid/Projects/C#_Projects/BankStateAnalize/BankStateAnalize/bin/Debug/net8.0/BankStateAnalize.dll
+/Users/vahid/Projects/C#_Projects/BankStateAnalize/BankStateAnalize/bin/Debug/net8.0/BankStateAnalize.pdb
+/Users/vahid/Projects/C#_Projects/BankStateAnalize/BankStateAnalize/obj/Debug/net8.0/BankStateAnalize.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vahid/Projects/C#_Projects/BankStateAnalize/BankStateAnalize/obj/Debug/net8.0/BankStateAnalize.AssemblyInfoInputs.cache
+/Users/vahid/Projects/C#_Projects/BankStateAnalize/BankStateAnalize/obj/Debug/net8.0/BankStateAnalize.AssemblyInfo.cs
+/Users/vahid/Projects/C#_Projects/BankStateAnalize/BankStateAnalize/obj/Debug/net8.0/BankStateAnalize.csproj.CoreCompileInputs.cache
+/Users/vahid/Projects/C#_Projects/BankStateAnalize/BankStateAnalize/obj/Debug/net8.0/BankStateAnalize.dll
+/Users/vahid/Projects/C#_Projects/BankStateAnalize/BankStateAnalize/obj/Debug/net8.0/refint/BankStateAnalize.dll
+/Users/vahid/Projects/C#_Projects/BankStateAnalize/BankStateAnalize/obj/Debug/net8.0/BankStateAnalize.pdb
+/Users/vahid/Projects/C#_Projects/BankStateAnalize/BankStateAnalize/obj/Debug/net8.0/BankStateAnalize.genruntimeconfig.cache
+/Users/vahid/Projects/C#_Projects/BankStateAnalize/BankStateAnalize/obj/Debug/net8.0/ref/BankStateAnalize.dll
+/Users/vahid/Projects/C#_Projects/BankStateAnalize/BankStateAnalize/bin/Debug/net8.0/CsvHelper.dll
+/Users/vahid/Projects/C#_Projects/BankStateAnalize/BankStateAnalize/obj/Debug/net8.0/BankStateAnalize.csproj.AssemblyReference.cache
+/Users/vahid/Projects/C#_Projects/BankStateAnalize/BankStateAnalize/obj/Debug/net8.0/BankStat.E258A454.Up2Date

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oUJECVK4JzM=",
+  "success": true,
+  "projectFilePath": "/Users/vahid/Projects/C#_Projects/BankStateAnalize/BankStateAnalize/BankStateAnalize.csproj",
+  "expectedPackageFiles": [
+    "/Users/vahid/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
