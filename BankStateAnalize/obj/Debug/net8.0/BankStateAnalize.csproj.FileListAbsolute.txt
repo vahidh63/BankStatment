@@ -15,3 +15,4 @@
 /Users/vahid/Projects/C#_Projects/BankStateAnalize/BankStateAnalize/bin/Debug/net8.0/CsvHelper.dll
 /Users/vahid/Projects/C#_Projects/BankStateAnalize/BankStateAnalize/obj/Debug/net8.0/BankStateAnalize.csproj.AssemblyReference.cache
 /Users/vahid/Projects/C#_Projects/BankStateAnalize/BankStateAnalize/obj/Debug/net8.0/BankStat.E258A454.Up2Date
+/Users/vahid/Projects/C#_Projects/BankStateAnalize/BankStateAnalize/obj/Debug/net8.0/BankStateAnalize.sourcelink.json

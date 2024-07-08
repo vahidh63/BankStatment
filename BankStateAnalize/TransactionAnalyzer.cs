@@ -4,31 +4,17 @@ public class TransactionAnalyzer(List<Transaction> transactions)
     public List<Transaction> Transaction { get; set; } = transactions;
     public double ClaCulateTotal()
     {
-        double total = 0;
-        foreach (var item in Transaction)
-        {
-            total += item.Price;
-        }
-        return total;
+        double result = Transaction.Sum(p => p.Price);
+        return result;
     }
     public double CalTotalInMonth(int month)
     {
-        double total = 0;
-        foreach (var item in Transaction)
-        {
-            if (item.DueDate.Month == month)
-                total += item.Price;
-        }
-        return total;
+        double result = Transaction.Where(i => i.DueDate.Month == month).Sum(p => p.Price);
+        return result;
     }
     public double CalTotalByCategury(string categury)
     {
-        double total = 0;
-        foreach (var item in Transaction)
-        {
-            if (item.Categury == categury)
-                total += item.Price;
-        }
-        return total;
+        double result = Transaction.Where(i => i.Categury == categury).Sum(p => p.Price);
+        return result;
     }
 }
